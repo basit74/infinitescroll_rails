@@ -8,8 +8,8 @@ Gem::Specification.new do |s|
   s.authors     = ["Sean Behan"]
   s.email       = ["bseanvt@gmail.com"]
   s.homepage    = ""
-  s.summary     = %q{TODO: Write a gem summary}
-  s.description = %q{TODO: Write a gem description}
+  s.summary     = %q{Infinite Scroll jQuery Plugin for Rails 3.1 Asset Pipeline}
+  s.description = %q{Uses existing pagination to create infinite scroll for you application.}
 
   s.rubyforge_project = "infinitescroll_rails"
 
